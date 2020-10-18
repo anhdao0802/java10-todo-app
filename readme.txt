@@ -1,1 +1,2 @@
-TODO-APP: 2.0-snapshot
+
+TODO-APP: 2.0-SNAPSHOT
